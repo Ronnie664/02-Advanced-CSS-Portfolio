@@ -1,4 +1,4 @@
-# 02 Advanced CSS: Portfolio
+# My Portfolio
 Live URL to the Portfolio: https://ronnie664.github.io/Ronnie-Sammons-Portfolio/
 
 ## Description
